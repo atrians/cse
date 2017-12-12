@@ -1,5 +1,5 @@
 ---
-title: ":ramen: Indigo, minimalist jekyll theme"
+title: ":ramen: Classroom"
 layout: post
 date: 2016-01-23 22:10
 tag: jekyll
@@ -10,7 +10,8 @@ hidden: true # don't count this post in blog pagination
 description: "This is a simple and minimalist template for Jekyll for those who likes to eat noodles."
 category: project
 author: johndoe
-externalLink: false
+externalLink: true
+externalLink: https://atrians.github.io/cse/posts/2017-12-12-classrom.html
 ---
 
 ![Screenshot](https://raw.githubusercontent.com/sergiokopplin/indigo/gh-pages/assets/screen-shot.png)
