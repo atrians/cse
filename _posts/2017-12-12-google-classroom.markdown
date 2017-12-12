@@ -1,5 +1,5 @@
 ---
-title: ":ramen: Classroom"
+title: ":ramen: Google Classroom"
 layout: post
 date: 2017-12-12 20:00
 tag: jekyll
@@ -11,7 +11,7 @@ description: "This is a simple and minimalist template for Jekyll for those who 
 category: project
 author: johndoe
 externalLink: true
-externalLink: https://atrians.github.io/cse/posts/2017-12-12-classroom.html
+externalLink: https://atrians.github.io/cse/posts/2017-12-12-google-classroom.html
 ---
 
 ![Screenshot](https://raw.githubusercontent.com/sergiokopplin/indigo/gh-pages/assets/screen-shot.png)
