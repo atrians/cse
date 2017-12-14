@@ -1,10 +1,13 @@
 #+TITLE:    Google Classroom
 #+AUTHOR:   G. Srinivasachar
 #+EMAIL:
-#+DATE:     01 Aug 2017
-#+OPTIONS: html-postamble:nil toc:t num:t whn:nil
+#+DATE:     13 Dec 2017
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css"  media="screen"/>
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="css/bootstrap-reponsive.min.css"/>
+#+STYLE:   <link href="css/org.css" rel="stylesheet" type="text/css">
 #+HTML_HEAD: <style type="text/css">body{ max-width:50%; margin:auto;}</style>
-
+#+OPTIONS: html-postamble:nil toc:t num:nil whn:t
+#+INFOJS_OPT: view:overview toc:nil mouse:#dddddd
 -----
 * Introduction
 
@@ -41,8 +44,9 @@
 
   Attendance compliance between,
 
-  + Departments
+  + Department
   + Sections
+  + Subjects
 
   Attendance summary for,
 
@@ -53,30 +57,20 @@
 
 * Conclusions
 
-  I have documented the work flow of each of the activities. And it is
-  applicable to all departments. In fact the registration form, 
-  subject allotment form and feedback forms are used by all the
-  departments.
+  I have experimented with the forms and classroom prototype. The
+  details are:
 
-  I have experimented attendance form, generated automatically, from
-  the students list for the course "Computer Networks". That will
-  work for core, electives and labs where student groups need to be
-  distinguished.
+  + Repository of forms
+  + Class room for one course
+  + Attendance for one subject
+  + My experience has been good.
 
-  A prototype of google classroom was created to run the "Computer
-  Networks" course and my experience was good. Where, the teacher can
-  assign questions, quizzes and assignments and track the progress of
-  the students on line.
+  Action Items
 
-* Action Items
-
-  In case the management is not working on any LMS,
-
-  1) I will train the staff of all departments for adopting google
-     classroom.
+  1) Train the class coordinators and who in turn will train the
+     department staff for adopting the google classroom.
 
   2) Management takes a decision to create email accounts for
      students under www.atria.edu domain.
 
- 
 -----
