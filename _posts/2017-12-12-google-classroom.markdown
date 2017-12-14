@@ -11,7 +11,6 @@ description: "This is a simple and minimalist template for Jekyll for those who 
 category: project
 author: johndoe
 externalLink: false
-externalLink: https://atrians.github.io/cse/posts/2017-12-12-google-classroom.html
 ---
 
 <body>
