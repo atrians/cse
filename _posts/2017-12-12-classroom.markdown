@@ -1,25 +1,28 @@
+---
+title: ":ramen: Classroom"
+layout: post
+date: 2017-12-12 20:00
+tag: jekyll
+image: https://atrians.github.io/cse/assets/images/profile.jpg
+headerImage: true
+projects: true
+hidden: true # don't count this post in blog pagination
+description: "TL project."
+category: project
+author: Srinivasachar, G
+externalLink: false
+---
 
 <body>
-<style type="text/css">body{ max-width:50%; margin:auto;}</style>
-<script type="text/javascript" src="http://orgmode.org/org-info.js"></script>
-<div id="content">
+<div id="org-div-home-and-up">
+ <a accesskey="h" href=""> UP </a>
+ |
+ <a accesskey="H" href="https://atrians.github.io/cse/"> HOME </a>
+</div><div id="content">
 <h1 class="title">Google Classroom</h1>
-<div id="table-of-contents">
-<h2>Table of Contents</h2>
-<div id="text-table-of-contents">
-<ul>
-<li><a href="#org0966e3f">Introduction</a></li>
-<li><a href="#org5e7fc1e">Features</a></li>
-<li><a href="#orgefb4555">Forms</a></li>
-<li><a href="#org7d441f6">Reports</a></li>
-<li><a href="#org64b2ed7">Conclusions</a></li>
-</ul>
-</div>
-</div>
-<hr />
-<div id="outline-container-org0966e3f" class="outline-2">
-<h2 id="org0966e3f">Introduction</h2>
-<div class="outline-text-2" id="text-org0966e3f">
+<div id="outline-container-org9030331" class="outline-2">
+<h2 id="org9030331">Introduction</h2>
+<div class="outline-text-2" id="text-org9030331">
 <ul class="org-ul">
 <li><a href="https://classroom.google.com/">https://classroom.google.com/</a></li>
 <li>Paperless classes conducted using G suite (drive, forms, docs,  etc).</li>
@@ -34,9 +37,9 @@
 </div>
 </div>
 
-<div id="outline-container-org5e7fc1e" class="outline-2">
-<h2 id="org5e7fc1e">Features</h2>
-<div class="outline-text-2" id="text-org5e7fc1e">
+<div id="outline-container-org8d8970e" class="outline-2">
+<h2 id="org8d8970e">Features</h2>
+<div class="outline-text-2" id="text-org8d8970e">
 <ul class="org-ul">
 <li>Automation of manual tasks</li>
 <li>Collaboration between stake holders</li>
@@ -48,9 +51,9 @@
 </div>
 </div>
 
-<div id="outline-container-orgefb4555" class="outline-2">
-<h2 id="orgefb4555">Forms</h2>
-<div class="outline-text-2" id="text-orgefb4555">
+<div id="outline-container-org663de65" class="outline-2">
+<h2 id="org663de65">Forms</h2>
+<div class="outline-text-2" id="text-org663de65">
 <ul class="org-ul">
 <li>Subject allotment</li>
 <li>Students List</li>
@@ -63,9 +66,9 @@
 </div>
 </div>
 
-<div id="outline-container-org7d441f6" class="outline-2">
-<h2 id="org7d441f6">Reports</h2>
-<div class="outline-text-2" id="text-org7d441f6">
+<div id="outline-container-org583ce54" class="outline-2">
+<h2 id="org583ce54">Reports</h2>
+<div class="outline-text-2" id="text-org583ce54">
 <p>
 Attendance compliance between,
 </p>
@@ -91,9 +94,9 @@ Similar reports regarding internals.
 </div>
 </div>
 
-<div id="outline-container-org64b2ed7" class="outline-2">
-<h2 id="org64b2ed7">Conclusions</h2>
-<div class="outline-text-2" id="text-org64b2ed7">
+<div id="outline-container-org71e3a96" class="outline-2">
+<h2 id="org71e3a96">Conclusions</h2>
+<div class="outline-text-2" id="text-org71e3a96">
 <p>
 I have experimented with the forms and classroom prototype. The
 details are:
@@ -123,4 +126,3 @@ students under www.atria.edu domain.</li>
 </div>
 </div>
 </body>
-</html>
