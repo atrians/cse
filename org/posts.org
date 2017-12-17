@@ -21,7 +21,8 @@
   :description: "TL project."
   :category: project
   :author: Srinivasachar, G
-  :externalLink: false
+  :externalLink: true
+  :externalLink: https://atrians.github.io/cse/html/2017-12-12-classroom.html
   :END:
 ** Introduction
 
