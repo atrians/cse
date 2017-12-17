@@ -2,10 +2,9 @@
 #+AUTHOR:   G. Srinivasachar
 #+EMAIL:
 #+DATE:     13 Dec 2017
-#+HTML_HEAD: <style type="text/css">body{ max-width:50%; margin:auto;}</style>
-#+LINK_UP: https://atrians.github.io/cse/
-#+LINK_HOME: https://atrians.github.io/cse/
 #+OPTIONS: html-postamble:nil toc:t num:nil whn:t
+#+HTML_HEAD: <style type="text/css">body{ max-width:50%; margin:auto;}</style>
+#+HTML_LINK_HOME: https://atrians.github.io/cse/
 #+INFOJS_OPT: path:https://atrians.github.io/cse/org/org-info.js view:overview toc:nil mouse:#dddddd
 #+EXPORT_FILE_NAME: 2017-12-12-classroom
 -----
