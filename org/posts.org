@@ -5,7 +5,6 @@
 #+HTML_HEAD: <style type="text/css">body{ max-width:50%; margin:auto;}</style>
 #+OPTIONS: html-postamble:nil toc:t num:nil whn:t
 #+INFOJS_OPT: view:overview toc:nil mouse:#dddddd
-#+HTML_LINK_HOME: https://atrians.github.io/cse/
 #+EXPORT_FILE_NAME: 2017-12-12-classroom
 -----
 * Classroom
