@@ -1,14 +1,14 @@
-#+TITLE:    Google Classroom
+#+TITLE:    Course Management
 #+AUTHOR:   G. Srinivasachar
 #+EMAIL:
 #+DATE:     13 Dec 2017
 #+OPTIONS: html-postamble:nil toc:t num:nil whn:t
-#+HTML_HEAD: <style type="text/css">body{ max-width:50%; margin:auto;}</style>
+#+HTML_HEAD: <style type="text/css">body{ max-width:50%; margin:auto;} p { text-align:justify;} outline-text-2 {font-size:large;} </style>
 #+HTML_LINK_HOME: https://atrians.github.io/cse/
 #+INFOJS_OPT: path:https://atrians.github.io/cse/org/org-info.js view:overview toc:nil mouse:#dddddd
 #+EXPORT_FILE_NAME: 2017-12-12-classroom
 -----
-* Classroom
+* Course Management
   :PROPERTIES:
   :title: ":ramen: Classroom"
   :layout: post
@@ -24,7 +24,30 @@
   :externalLink: true
   :externalLink: https://atrians.github.io/cse/html/2017-12-12-classroom.html
   :END:
-** Introduction
+
+** Proposal
+   -----
+   Using the following tools,
+
+   + Google Classroom
+   + Google Forms
+   + R
+
+   The tools help in,
+
+   + Automation of manual tasks
+   + Collaboration between stake holders
+   + Secured access
+   + Reports
+
+   The proposal is,
+
+   + Scalable
+   + Future proof
+   -----
+
+** Google Classroom
+   -----
 
    * https://classroom.google.com/
    * Paperless classes conducted using G suite (drive, forms, docs,  etc).
@@ -35,17 +58,10 @@
    * Teacher gets the student summary as progress
    * Student gets to know the teachers feedback
    * Unlimited drive space
+   -----
 
-** Features
-
-   + Automation of manual tasks
-   + Collaboration between stake holders
-   + Security hierarchy
-   + Suitable reports
-   + Scalable
-   + Future proof
-
-** Forms
+** Google Forms
+   -----
 
    + Subject allotment
    + Students List
@@ -54,8 +70,10 @@
    + Student registration
    + Feedback
    + Results
+   -----
 
-** Reports
+** Reports using R
+   -----
 
    Attendance compliance between,
 
@@ -69,23 +87,27 @@
    + Student
 
    Similar reports regarding internals.
+   -----
 
-** Conclusions
+** Conclusion
+   -----
 
-   I have experimented with the forms and classroom prototype. The
-   details are:
+   Achieves the requirements for,
 
-   + Repository of forms
-   + Class room for one course
-   + Attendance for one subject
-   + My experience has been good.
+   1. Continuous evaluation
+   2. Flip class rooms
+   3. LMS
+
+   Tested, 
+
+   1. Google Classroom for the 'Computer Networks' course
+   2. Google Form(s) for attendance
 
    Action Items
 
-   1) Train the class coordinators and who in turn will train the
-      department staff for adopting the google classroom.
+   1. Decision by the management for implementation
+   2. Train the class coordinators and who train the other staff.
+   3. Create email accounts for students under www.atria.edu domain.
+   -----
 
-   2) Management takes a decision to create email accounts for
-      students under www.atria.edu domain.
 
- -----
