@@ -11,9 +11,22 @@
 * Resume
 
 ** Dr. Aishwarya P.
-** Dr. Jasma Balasangameshwara
-** I.D. Soans
+   [[http://atria.edu/wp-content/uploads/2015/06/Dr.Aishwarya-Photo1-150x150.png]]
+
+   | Qualifications:   | Ph. D, M.E                                                |
+   | Experience:       | 15 years                                                  |
+   | Contact:          | aishwarya.p@atria.edu                                     |
+   | Area of interest: | Pattern Recognition, Computer Networks, Computer Networks |
+
 ** Farhana Kausar
+   [[http://atria.edu/wp-content/uploads/2015/06/computer-faculty-8.gif]]
+
+   | Qualifications:   | (Ph. D), M.Tech, B.E                                                   |
+   | Experience:       | 15 years                                                               |
+   | Contact:          | farhanakausar@atria.edu                                                |
+   | Area of interest: | Artificial Neural Networks, Pattern Recognition, Software Architecture |
+
+
 ** Vijay Swaroop
 ** G. Srinivasachar
 ** Archana J.N.
