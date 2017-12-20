@@ -3,17 +3,69 @@
 #+EMAIL:
 #+DATE:     13 Dec 2017
 #+OPTIONS: html-postamble:nil toc:t num:nil whn:t
-#+HTML_HEAD: <style type="text/css">body{ max-width:50%; margin:auto;}</style>
+#+HTML_HEAD: <style type="text/css"> body{ max-width:50%; margin:auto;} p {text-align:justify;}</style>
 #+HTML_LINK_HOME: https://atrians.github.io/cse/
 #+INFOJS_OPT: path:https://atrians.github.io/cse/org/org-info.js view:overview toc:nil mouse:#dddddd
 #+EXPORT_FILE_NAME: about.html
 -----
 * About
-** Facilities
+** Mission & Vision
+
+   Vision
+
+   Committed to develop best computational engineer through creative learning ambience and competent faculty
+
+   Mission
+
+   Faculty and staff are committed to impart knowledge and instill discipline.
+   Promote independent inquiry,research and logical thinking
+   Benchmark and continuously upgrade infrastructure
+   Collaborate with industry and higher learning institution
+
+** Achievements
+
+   + 2000 Started with an intake of 60
+   + 2006 intake increased to 120
+   + 2011 Started PG with an intake of 18
+   + 2013 Two faculty awarded Ph.D
+   + 2017 VTU 4th Rank
+   + 2016 VTU recognised Research Center
+   + SMYSR - Seed money to young scientists for research
+   + K-FIST (LEVEL 1) - Karnataka fund for infrastructure strengthening in science and technology 
+
 ** Academics
+
+   + B. E.
+   + M. Tech
+   + Internships
+   + Outcome based education
+   + Project based learning
+   + Department library
+   + Memberships: IEEE, ACM, MIE, CSI, IAENG
+
 ** Research
-** Internships
-** Project based learning
-** Dexterix technical event
+
+   + Networking
+   + Data Science
+   + Image processing
+   + Engineering education
+   + Artificial Intelligence
+
+** Industry interaction
+
+   + Internshaala
+   + Excelarator
+   + EMC
+   + Infosys
+   + ICT-ACT
+
+** Campus life
+   + Dexterix Tech annual event
+   + Participation in intra/inter college events
+
 ** Placements
+
+   + Package 3 laksh - 7 lakhs
+   + Reputed companies
+
 
