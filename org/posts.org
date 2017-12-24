@@ -3,7 +3,7 @@
 #+EMAIL:
 #+DATE:     13 Dec 2017
 #+OPTIONS: html-postamble:nil toc:t num:nil whn:t
-#+HTML_HEAD: <style type="text/css">body{ max-width:50%; margin:auto;} p { text-align:justify;} outline-text-2 {font-size:large;} </style>
+#+HTML_HEAD: <style type="text/css">body{ max-width:50%; margin:auto;} p { text-align:justify;} .outline-text-2 {font-size:5;} </style>
 #+HTML_LINK_HOME: https://atrians.github.io/cse/
 #+INFOJS_OPT: path:https://atrians.github.io/cse/org/org-info.js view:overview toc:nil mouse:#dddddd
 #+EXPORT_FILE_NAME: 2017-12-12-classroom.html
@@ -63,11 +63,10 @@
 ** Google Forms
    -----
 
-   + Subject allotment
-   + Students List
-   + Attendance form
-   + Internals form
    + Student registration
+   + Subject allotment
+   + Attendance
+   + Internals
    + Feedback
    + Results
    -----
