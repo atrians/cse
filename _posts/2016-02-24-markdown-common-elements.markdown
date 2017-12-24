@@ -13,208 +13,166 @@ author: johndoe
 description: Markdown summary with different options
 ---
 
-## Summary:
-
-You can pick as item to see how to apply in markdown.
-
-### Comum Elements
-- [Basic formatting](#basic-formatting)
-- [Headings](#headings)
-- [Lists](#lists)
-- [Paragraph Modifiers](#paragraph-modifiers)
-- [Urls](#urls)
-- [Horizontal Rule](#horizontal-rule)
-- [Images](#images)
-- [Code](#code)
-
----
-
-## Basic formatting
-
-This note **demonstrates** some of what [Markdown][1] is *capable of doing*.
-
-And that's how to do it.
-
-{% highlight html %}
-This note **demonstrates** some of what [Markdown][some/link] is *capable of doing*.
-{% endhighlight %}
-
----
-
-## Headings
-
-There are six levels of headings. They correspond with the six levels of HTML headings. You've probably noticed them already in the page. Each level down uses one more hash character. But we are using just 4 of them.
-
-# Headings can be small
-
-## Headings can be small
-
-### Headings can be small
-
-#### Headings can be small
-
-{% highlight raw %}
-# Heading
-## Heading
-### Heading
-#### Heading
-{% endhighlight %}
-
----
-
-## Lists
-
-### Ordered list
-
-1. Item 1
-2. A second item
-3. Number 3
-
-{% highlight raw %}
-1. Item 1
-2. A second item
-3. Number 3
-{% endhighlight %}
-
-### Unordered list
-
-* An item
-* Another item
-* Yet another item
-* And there's more...
-
-{% highlight raw %}
-* An item
-* Another item
-* Yet another item
-* And there's more...
-{% endhighlight %}
-
----
-
-## Paragraph modifiers
-
-### Quote
-
-> Here is a quote. What this is should be self explanatory. Quotes are automatically indented when they are used.
-
-{% highlight raw %}
-> Here is a quote. What this is should be self explanatory.
-{% endhighlight raw %}
-
----
-
-## URLs
-
-URLs can be made in a handful of ways:
-
-* A named link to [Mark It Down][3].
-* Another named link to [Mark It Down](http://markitdown.net/)
-* Sometimes you just want a URL like <http://markitdown.net/>.
-
-{% highlight raw %}
-* A named link to [MarkItDown][3].
-* Another named link to [MarkItDown](http://markitdown.net/)
-* Sometimes you just want a URL like <http://markitdown.net/>.
-{% endhighlight %}
-
----
-
-## Horizontal rule
-
-A horizontal rule is a line that goes across the middle of the page.
-It's sometimes handy for breaking things up.
-
-{% highlight raw %}
----
-{% endhighlight %}
-
----
-
-## Images
-
-Markdown can also contain images. I'll need to add something here sometime.
-
-{% highlight raw %}
-![Markdowm Image][/image/url]
-{% endhighlight %}
-
-![Markdowm Image][6]
-
-*Figure Caption*?
-
-{% highlight raw %}
-![Markdowm Image][/image/url]
-<figcaption class="caption">Photo by John Doe</figcaption>
-{% endhighlight %}
-
-![Markdowm Image][6]
-<figcaption class="caption">Photo by John Doe</figcaption>
-
-*Bigger Images*?
-
-{% highlight raw %}
-![Markdowm Image][/image/url]{: class="bigger-image" }
-{% endhighlight %}
-
-![Markdowm Image][6]{: class="bigger-image" }
-
----
-
-## Code
-
-A HTML Example:
-
-{% highlight html %}
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Document</title>
-</head>
 <body>
-    <h1>Just a test</h1>
+<div id="org-div-home-and-up">
+ <a accesskey="h" href=""> UP </a>
+ |
+ <a accesskey="H" href="https://atrians.github.io/cse/"> HOME </a>
+</div><div id="content">
+<h1 class="title">Course Management</h1>
+<div id="table-of-contents">
+<h2>Table of Contents</h2>
+<div id="text-table-of-contents">
+<ul>
+<li><a href="#orgb0c601f">Proposal</a></li>
+<li><a href="#orgbc77187">Google Classroom</a></li>
+<li><a href="#org29a800c">Google Forms</a></li>
+<li><a href="#org50188e7">Reports using R</a></li>
+<li><a href="#orgbf7b071">Conclusion</a></li>
+</ul>
+</div>
+</div>
+<div id="outline-container-orgb0c601f" class="outline-2">
+<h2 id="orgb0c601f">Proposal</h2>
+<div class="outline-text-2" id="text-orgb0c601f">
+<hr />
+<p>
+Using the following tools,
+</p>
+
+<ul class="org-ul">
+<li>Google Classroom</li>
+<li>Google Forms</li>
+<li>R</li>
+</ul>
+
+<p>
+The tools help in,
+</p>
+
+<ul class="org-ul">
+<li>Automation of manual tasks</li>
+<li>Collaboration between stake holders</li>
+<li>Secured access</li>
+<li>Reports</li>
+</ul>
+
+<p>
+The proposal is,
+</p>
+
+<ul class="org-ul">
+<li>Scalable</li>
+<li>Future proof</li>
+</ul>
+<hr />
+</div>
+</div>
+
+<div id="outline-container-orgbc77187" class="outline-2">
+<h2 id="orgbc77187">Google Classroom</h2>
+<div class="outline-text-2" id="text-orgbc77187">
+<hr />
+
+<ul class="org-ul">
+<li><a href="https://classroom.google.com/">https://classroom.google.com/</a></li>
+<li>Paperless classes conducted using G suite (drive, forms, docs,  etc).</li>
+<li>Students and Teachers must belong to the same domain www.atria.edu.</li>
+<li>Teacher creates class and invite students using class code</li>
+<li>Classroom folder automatically created in teacher &amp; student drives.</li>
+<li>Teacher can differentiate class of students while assigning work</li>
+<li>Teacher gets the student summary as progress</li>
+<li>Student gets to know the teachers feedback</li>
+<li>Unlimited drive space</li>
+</ul>
+<hr />
+</div>
+</div>
+
+<div id="outline-container-org29a800c" class="outline-2">
+<h2 id="org29a800c">Google Forms</h2>
+<div class="outline-text-2" id="text-org29a800c">
+<hr />
+
+<ul class="org-ul">
+<li>Subject allotment</li>
+<li>Students List</li>
+<li>Attendance form</li>
+<li>Internals form</li>
+<li>Student registration</li>
+<li>Feedback</li>
+<li>Results</li>
+</ul>
+<hr />
+</div>
+</div>
+
+<div id="outline-container-org50188e7" class="outline-2">
+<h2 id="org50188e7">Reports using R</h2>
+<div class="outline-text-2" id="text-org50188e7">
+<hr />
+
+<p>
+Attendance compliance between,
+</p>
+
+<ul class="org-ul">
+<li>Department</li>
+<li>Sections</li>
+<li>Subjects</li>
+</ul>
+
+<p>
+Attendance summary for,
+</p>
+
+<ul class="org-ul">
+<li>Department</li>
+<li>Student</li>
+</ul>
+
+<p>
+Similar reports regarding internals.
+</p>
+<hr />
+</div>
+</div>
+
+<div id="outline-container-orgbf7b071" class="outline-2">
+<h2 id="orgbf7b071">Conclusion</h2>
+<div class="outline-text-2" id="text-orgbf7b071">
+<hr />
+
+<p>
+Achieves the requirements for,
+</p>
+
+<ol class="org-ol">
+<li>Continuous evaluation</li>
+<li>Flip class rooms</li>
+<li>LMS</li>
+</ol>
+
+<p>
+Tested, 
+</p>
+
+<ol class="org-ol">
+<li>Google Classroom for the 'Computer Networks' course</li>
+<li>Google Form(s) for attendance</li>
+</ol>
+
+<p>
+Action Items
+</p>
+
+<ol class="org-ol">
+<li>Decision by the management for implementation</li>
+<li>Train the class coordinators and who train the other staff.</li>
+<li>Create email accounts for students under www.atria.edu domain.</li>
+</ol>
+<hr />
+</div>
+</div>
+</div>
 </body>
-</html>
-{% endhighlight %}
-
-A CSS Example:
-
-{% highlight css %}
-pre {
-    padding: 10px;
-    font-size: .8em;
-    white-space: pre;
-}
-
-pre, table {
-    width: 100%;
-}
-
-code, pre, tt {
-    font-family: Monaco, Consolas, Inconsolata, monospace, sans-serif;
-    background: rgba(0,0,0,.05);
-}
-{% endhighlight %}
-
-A JS Example:
-
-{% highlight js %}
-// Sticky Header
-$(window).scroll(function() {
-
-    if ($(window).scrollTop() > 900 && !$("body").hasClass('show-menu')) {
-        $('#hamburguer__open').fadeOut('fast');
-    } else if (!$("body").hasClass('show-menu')) {
-        $('#hamburguer__open').fadeIn('fast');
-    }
-
-});
-{% endhighlight %}
-
-[1]: http://daringfireball.net/projects/markdown/
-[2]: http://www.fileformat.info/info/unicode/char/2163/index.htm
-[3]: http://www.markitdown.net/
-[4]: http://daringfireball.net/projects/markdown/basics
-[5]: http://daringfireball.net/projects/markdown/syntax
-[6]: http://kune.fr/wp-content/uploads/2013/10/ghost-blog.jpg
